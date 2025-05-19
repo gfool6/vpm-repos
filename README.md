@@ -1,1 +1,1 @@
-Click [here](https://gfool6.github.io/vpm-repos/vpm.json) to install.
+Click [here](vcc://vpm/addRepo?url=https://gfool6.github.io/vpm-repos/vpm.json) to install.
