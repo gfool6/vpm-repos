@@ -2,7 +2,7 @@
     "name": "FZTools",
     "id": "com.gfool6.fztools",
     "author": "gfool6",
-    "url": "https://raw.githubusercontent.com/gfool6/FZTools/refs/heads/main/vpm.json",
+    "url": "https://gfool6.github.io/vpm-repos/vpm.json",
     "packages": {
         "com.gfool6.fztools": {
         "versions": {
