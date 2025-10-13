@@ -6,7 +6,7 @@
     "packages": {
         "com.gfool6.fztools": {
         "versions": {
-            "0.1.0": {
+            "0.1.1": {
                 "name": "com.gfool6.fztools",
                 "version": "0.1.1",
                 "displayName": "FZTools",
