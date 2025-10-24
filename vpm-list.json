@@ -18,7 +18,7 @@
                     "githubUrl": "https://github.com/gfool6/FZToolsCore",
                     "vpmDependencies": {
                         "com.vrchat.avatars": ">=3.8.0",
-                        "nadena.dev.modular-avatar.core": ">=1.14.0"
+                        "nadena.dev.modular-avatar": ">=1.14.0"
                     }
                 }
             }
