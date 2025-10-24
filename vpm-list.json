@@ -1,0 +1,158 @@
+{
+    "name": "FZTools",
+    "id": "io.github.gfool6.vpm",
+    "author": "gfool6",
+    "url": "https://gfool6.github.io/vpm-repos/vpm-list.json",
+    "packages": {
+        "com.gfool6.fztools.core": {
+            "versions": {
+                "1.0.0": {
+                    "name": "com.gfool6.fztools.core",
+                    "version": "1.0.0",
+                    "displayName": "FZTools Core",
+                    "description": "gfool6's avatar custom tool.",
+                    "unity": "2022.3",
+                    "licensesUrl": "https://github.com/gfool6/FZToolsCore/blob/main/LICENSE",
+                    "license": "MIT",
+                    "url": "https://github.com/gfool6/FZToolsCore/releases/download/1.0.0/com.gfool6.fztools.core.1.0.0.zip?",
+                    "githubUrl": "https://github.com/gfool6/FZToolsCore"
+                }
+            }
+        },
+        "com.gfool6.fztools.auto-expression-creator": {
+            "versions": {
+                "1.0.0": {
+                    "name": "com.gfool6.fztools.auto-expression-creator",
+                    "version": "1.0.0",
+                    "displayName": "FZTools Auto Expression Creator",
+                    "description": "gfool6's avatar custom tool.",
+                    "unity": "2022.3",
+                    "licensesUrl": "https://github.com/gfool6/FZToolsAutoExpressionCreator/blob/main/LICENSE",
+                    "license": "MIT",
+                    "url": "https://github.com/gfool6/FZToolsAutoExpressionCreator/releases/download/1.0.0/com.gfool6.fztools.auto-expression-creator.1.0.0.zip?",
+                    "githubUrl": "https://github.com/gfool6/FZToolsAutoExpressionCreator"
+                }
+            }
+        },
+        "com.gfool6.fztools.blend-shape-transfer": {
+            "versions": {
+                "1.0.0": {
+                    "name": "com.gfool6.fztools.blend-shape-transfer",
+                    "version": "1.0.0",
+                    "displayName": "FZTools Blendshape Transfer",
+                    "description": "gfool6's avatar custom tool.",
+                    "unity": "2022.3",
+                    "licensesUrl": "https://github.com/gfool6/FZToolsBlendShapeTransfer/blob/main/LICENSE",
+                    "license": "MIT",
+                    "url": "https://github.com/gfool6/FZToolsBlendShapeTransfer/releases/download/1.0.0/com.gfool6.fztools.blend-shape-transfer.1.0.0.zip?",
+                    "githubUrl": "https://github.com/gfool6/FZToolsBlendShapeTransfer"
+                }
+            }
+        },
+        "com.gfool6.fztools.bulk-menu-creator": {
+            "versions": {
+                "1.0.0": {
+                    "name": "com.gfool6.fztools.bulk-menu-creator",
+                    "version": "1.0.0",
+                    "displayName": "FZTools Bulk Menu Creator",
+                    "description": "gfool6's avatar custom tool.",
+                    "unity": "2022.3",
+                    "licensesUrl": "https://github.com/gfool6/FZToolsBulkMenuCreator/blob/main/LICENSE",
+                    "license": "MIT",
+                    "url": "https://github.com/gfool6/FZToolsBulkMenuCreator/releases/download/1.0.0/com.gfool6.fztools.bulk-menu-creator.1.0.0.zip?",
+                    "githubUrl": "https://github.com/gfool6/FZToolsBulkMenuCreator"
+                }
+            }
+        },
+        "com.gfool6.fztools.chimera-create-helper": {
+            "versions": {
+                "1.0.0": {
+                    "name": "com.gfool6.fztools.chimera-create-helper",
+                    "version": "1.0.0",
+                    "displayName": "FZTools Chimera Create Helper",
+                    "description": "gfool6's avatar custom tool.",
+                    "unity": "2022.3",
+                    "licensesUrl": "https://github.com/gfool6/FZToolsChimeraCreateHelper/blob/main/LICENSE",
+                    "license": "MIT",
+                    "url": "https://github.com/gfool6/FZToolsChimeraCreateHelper/releases/download/1.0.0/com.gfool6.fztools.chimera-create-helper.1.0.0.zip?",
+                    "githubUrl": "https://github.com/gfool6/FZToolsChimeraCreateHelper"
+                }
+            }
+        },
+        "com.gfool6.fztools.dressup-body-creator": {
+            "versions": {
+                "1.0.0": {
+                    "name": "com.gfool6.fztools.dressup-body-creator",
+                    "version": "1.0.0",
+                    "displayName": "FZTools Dressup Body Creator",
+                    "description": "gfool6's avatar custom tool.",
+                    "unity": "2022.3",
+                    "licensesUrl": "https://github.com/gfool6/FZToolsDresUpBodyCreator/blob/main/LICENSE",
+                    "license": "MIT",
+                    "url": "https://github.com/gfool6/FZToolsDresUpBodyCreator/releases/download/1.0.0/com.gfool6.fztools.dressup-body-creator.1.0.0.zip?",
+                    "githubUrl": "https://github.com/gfool6/FZToolsDresUpBodyCreator"
+                }
+            }
+        },
+        "com.gfool6.fztools.face-animation-creator": {
+            "versions": {
+                "1.0.0": {
+                    "name": "com.gfool6.fztools.face-animation-creator",
+                    "version": "1.0.0",
+                    "displayName": "FZTools Face Animation Creator",
+                    "description": "gfool6's avatar custom tool.",
+                    "unity": "2022.3",
+                    "licensesUrl": "https://github.com/gfool6/FZToolsFaceAnimationCreator/blob/main/LICENSE",
+                    "license": "MIT",
+                    "url": "https://github.com/gfool6/FZToolsFaceAnimationCreator/releases/download/1.0.0/com.gfool6.fztools.face-animation-creator.1.0.0.zip?",
+                    "githubUrl": "https://github.com/gfool6/FZToolsFaceAnimationCreator"
+                }
+            }
+        },
+        "com.gfool6.fztools.minimum-tools": {
+            "versions": {
+                "1.0.0": {
+                    "name": "com.gfool6.fztools.minimum-tools",
+                    "version": "1.0.0",
+                    "displayName": "FZTools Minimum Tools",
+                    "description": "gfool6's avatar custom tool.",
+                    "unity": "2022.3",
+                    "licensesUrl": "https://github.com/gfool6/FZToolsMinimumTools/blob/main/LICENSE",
+                    "license": "MIT",
+                    "url": "https://github.com/gfool6/FZToolsMinimumTools/releases/download/1.0.0/com.gfool6.fztools.minimum-tools.1.0.0.zip?",
+                    "githubUrl": "https://github.com/gfool6/FZToolsMinimumTools"
+                }
+            }
+        },
+        "com.gfool6.fztools.mmd-mesh-creator": {
+            "versions": {
+                "1.0.0": {
+                    "name": "com.gfool6.fztools.mmd-mesh-creator",
+                    "version": "1.0.0",
+                    "displayName": "FZTools MMD Mesh Creator",
+                    "description": "gfool6's avatar custom tool.",
+                    "unity": "2022.3",
+                    "licensesUrl": "https://github.com/gfool6/FZToolsMMDMeshCreator/blob/main/LICENSE",
+                    "license": "MIT",
+                    "url": "https://github.com/gfool6/FZToolsMMDMeshCreator/releases/download/1.0.0/com.gfool6.fztools.mmd-mesh-creator.1.0.0.zip?",
+                    "githubUrl": "https://github.com/gfool6/FZToolsMMDMeshCreator"
+                }
+            }
+        },
+        "com.gfool6.fztools.transform-transfer": {
+            "versions": {
+                "1.0.0": {
+                    "name": "com.gfool6.fztools.transform-transfer",
+                    "version": "1.0.0",
+                    "displayName": "FZTools Auto Expression Creator",
+                    "description": "gfool6's avatar custom tool.",
+                    "unity": "2022.3",
+                    "licensesUrl": "https://github.com/gfool6/FZToolsTransformTransfer/blob/main/LICENSE",
+                    "license": "MIT",
+                    "url": "https://github.com/gfool6/FZToolsTransformTransfer/releases/download/1.0.0/com.gfool6.fztools.transform-transfer.1.0.0.zip?",
+                    "githubUrl": "https://github.com/gfool6/FZToolsTransformTransfer"
+                }
+            }
+        }
+    }
+}
