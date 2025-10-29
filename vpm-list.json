@@ -172,13 +172,31 @@
                 "1.0.0": {
                     "name": "com.gfool6.fztools.transform-transfer",
                     "version": "1.0.0",
-                    "displayName": "FZTools Auto Expression Creator",
+                    "displayName": "FZTools Transform Transfer",
                     "description": "gfool6's avatar custom tool.",
                     "unity": "2022.3",
                     "licensesUrl": "https://github.com/gfool6/FZToolsTransformTransfer/blob/main/LICENSE",
                     "license": "MIT",
                     "url": "https://github.com/gfool6/FZToolsTransformTransfer/releases/download/1.0.0/com.gfool6.fztools.transform-transfer.1.0.0.zip?",
                     "githubUrl": "https://github.com/gfool6/FZToolsTransformTransfer",
+                    "vpmDependencies": {
+                        "com.gfool6.fztools.core": ">=1.0.0"
+                    }
+                }
+            }
+        },
+        "com.gfool6.fztools.pb-separator": {
+            "versions": {
+                "1.0.0": {
+                    "name": "com.gfool6.fztools.pb-separator",
+                    "version": "1.0.0",
+                    "displayName": "FZTools PhysBones Separator",
+                    "description": "gfool6's avatar custom tool.",
+                    "unity": "2022.3",
+                    "licensesUrl": "https://github.com/gfool6/FZToolsPhysBonesSeparator/blob/main/LICENSE",
+                    "license": "MIT",
+                    "url": "https://github.com/gfool6/FZToolsPhysBonesSeparator/releases/download/1.0.0/com.gfool6.fztools.pb-separator.1.0.0.zip?",
+                    "githubUrl": "https://github.com/gfool6/FZToolsPhysBonesSeparator",
                     "vpmDependencies": {
                         "com.gfool6.fztools.core": ">=1.0.0"
                     }
