@@ -200,6 +200,20 @@
                     "vpmDependencies": {
                         "com.gfool6.fztools.core": ">=1.0.0"
                     }
+                },
+                "1.0.1": {
+                    "name": "com.gfool6.fztools.pb-separator",
+                    "version": "1.0.1",
+                    "displayName": "FZTools PhysBones Separator",
+                    "description": "gfool6's avatar custom tool.",
+                    "unity": "2022.3",
+                    "licensesUrl": "https://github.com/gfool6/FZToolsPhysBonesSeparator/blob/main/LICENSE",
+                    "license": "MIT",
+                    "url": "https://github.com/gfool6/FZToolsPhysBonesSeparator/releases/download/1.0.1/com.gfool6.fztools.pb-separator.1.0.1.zip?",
+                    "githubUrl": "https://github.com/gfool6/FZToolsPhysBonesSeparator",
+                    "vpmDependencies": {
+                        "com.gfool6.fztools.core": ">=1.0.0"
+                    }
                 }
             }
         }
