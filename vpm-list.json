@@ -222,7 +222,7 @@
                 "1.0.0": {
                     "name": "com.gfool6.fztools.face-fx-separator",
                     "version": "1.0.0",
-                    "displayName": "FZTools PhysBones Separator",
+                    "displayName": "FZTools Face Fx Separator",
                     "description": "gfool6's avatar custom tool.",
                     "unity": "2022.3",
                     "licensesUrl": "https://github.com/gfool6/FZToolsFaceFXSeparator/blob/main/LICENSE",
