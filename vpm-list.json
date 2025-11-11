@@ -216,6 +216,42 @@
                     }
                 }
             }
+        },
+        "com.gfool6.fztools.face-fx-separator": {
+            "versions": {
+                "1.0.0": {
+                    "name": "com.gfool6.fztools.face-fx-separator",
+                    "version": "1.0.0",
+                    "displayName": "FZTools PhysBones Separator",
+                    "description": "gfool6's avatar custom tool.",
+                    "unity": "2022.3",
+                    "licensesUrl": "https://github.com/gfool6/FZToolsFaceFXSeparator/blob/main/LICENSE",
+                    "license": "MIT",
+                    "url": "https://github.com/gfool6/FZToolsFaceFXSeparator/releases/download/1.0.0/com.gfool6.fztools.face-fx-separator.1.0.0.zip?",
+                    "githubUrl": "https://github.com/gfool6/FZToolsFaceFXSeparator",
+                    "vpmDependencies": {
+                        "com.gfool6.fztools.core": ">=1.0.0"
+                    }
+                }
+            }
+        },
+        "com.gfool6.fztools.easy-bone-proxy": {
+            "versions": {
+                "1.0.0": {
+                    "name": "com.gfool6.fztools.easy-bone-proxy",
+                    "version": "1.0.0",
+                    "displayName": "FZTools Easy Bone Proxy",
+                    "description": "gfool6's avatar custom tool.",
+                    "unity": "2022.3",
+                    "licensesUrl": "https://github.com/gfool6/FZToolsEasyBoneProxy/blob/main/LICENSE",
+                    "license": "MIT",
+                    "url": "https://github.com/gfool6/FZToolsEasyBoneProxy/releases/download/1.0.0/com.gfool6.fztools.easy-bone-proxy.1.0.0.zip?",
+                    "githubUrl": "https://github.com/gfool6/FZToolsEasyBoneProxy",
+                    "vpmDependencies": {
+                        "com.gfool6.fztools.core": ">=1.0.0"
+                    }
+                }
+            }
         }
     }
 }
